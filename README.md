@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8316674.svg)](https://doi.org/10.5281/zenodo.8316674)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8316696.svg)](https://doi.org/10.5281/zenodo.8316696)
 
 Code for the manuscript, "Reservoir ecosystems support large pools of fish biomass".
 <br>
